@@ -1,0 +1,3 @@
+# Koi_project
+The entity 'technically' spawns in game. It creates a splash in water, can be hit, and dies. 
+But you cannot see it and the spawn egg also has no texture...
