@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Koi",
+        "name": "Koi",
+        "uuid": "15c42094-88c9-4d98-8ee8-63f07e527a57",
+        "version": [ 0, 0, 2 ],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Koi",
+            "type": "resources",
+            "uuid": "83750e6f-f049-45bb-bf3a-5c85738a157c",
+            "version": [ 0, 0, 2 ]
+        }
+    ]
+} 

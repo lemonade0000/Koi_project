@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "koi",
+  "texture_name": "atlas.items",
+  "texture_data": {
+  	
+  	"spawn_egg_koi": {
+      "textures": "textures/items/egg_koi"
+	}
+}

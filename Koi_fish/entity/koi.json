@@ -1,0 +1,23 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:client_entity":{
+		"description": {
+			"identifier": "jp:koi",
+			"materials": { 
+				"default": "koi" 
+			},
+			"textures": {
+				"default": { "textures/entity/jp/koi" }
+			},
+			"geometry": {
+				"default": "geometry.koi"
+			},
+			"render_controllers": [ 
+				"controller.render.koi" 
+			],
+			"spawn_egg": {
+				"texture": "spawn_egg_koi"
+			}
+		}
+	}
+}
